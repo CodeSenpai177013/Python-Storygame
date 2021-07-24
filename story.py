@@ -67,9 +67,9 @@ def story1(player_name):
                                  "What do you say? (a/b/c) ")
             print("--------------------------------------------------------------------------------------------------")
             if player_input == "a":
-                print("")
+                print("story ongoing")
             elif player_input == "b":
-                print("")
+                print("story ongoing")
             elif player_input == "c":
                 print("Her face turns sad and she says:\"Oh, ok then bye.\"\n"
                       "ARE YOU DUMP?")
